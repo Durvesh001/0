@@ -1,0 +1,132 @@
+
+
+body{
+  font-size: 17px;
+  font-family: 'Merriweather', serif;
+    color: #40514E;
+    background-color:honeydew;
+
+}
+
+.head{
+  margin-left: 50px;
+  margin-top: 50px;
+
+
+}
+
+.Devyani{
+  display: inline;
+  position: relative;
+  left: 750px;
+  height: 200px;
+}
+
+
+
+
+.head1{
+  margin-bottom: 0;
+  font-size: 50px;
+  display: inline;
+  position: relative;
+  left: -210px;
+  top: -120px;
+  color: #66BFBF;
+  font-family: 'Zilla Slab', serif;
+
+
+}
+
+h2{
+  color: #003d3d;
+    font-family: 'Zilla Slab', serif;
+    font-size: 30px;
+  margin: 0;
+}
+
+.head2{
+  margin-top: 5px;
+  font-size: 30px;
+  position: relative;
+  top: -120px;
+  font-family: 'Zilla Slab', serif;
+}
+
+.middle{
+  margin-left: 50px;
+  position: relative;
+}
+
+
+.skills{
+  position: relative;
+  top: 25px;
+  margin-left: 50px;
+}
+
+.exp{
+  display: inline;
+}
+
+hr{
+  border: dotted 6px;
+    color: black;
+    border-bottom: none;
+    width: 4%;
+    margin: 30px auto;
+}
+
+.details{
+  line-height: 1.7;
+}
+
+.ww{
+  position: relative;
+  left: 490px;
+}
+
+.wwx{
+  position: relative;
+  left: 450px;
+  padding-bottom: 30px;
+  
+  
+}
+
+.table{
+  position: relative;
+  left: 20px;
+  top: 20px;
+  font-family: 'Roboto Slab', serif;
+}
+.table tr,.table th,.table td{
+  margin-top: 25px;
+  text-align: center;
+  border-collapse: collapse;
+  padding: 12px;
+  
+}
+
+
+ .table  tr:nth-child(odd) {
+  background-color: #ffe4e1;
+}
+
+.table  tr:nth-child(even) {
+  background-color:#fff5ee;
+}
+
+.aei{
+position: relative;
+left: 20px;
+font-family: 'Roboto Slab', serif;
+}
+
+.xm{
+  height: 90px;
+}
+
+.oj{
+  line-height: 1.5;
+}
